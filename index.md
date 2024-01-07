@@ -1,6 +1,8 @@
 # Jijo Kuttikatt
 *Data Analyst*
 
+<img src="Profilepic.jpeg" alt="Profile Picture" width="150" hight="200">
+
 ---
 
 ## Skills
